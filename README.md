@@ -23,7 +23,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [Click to view live website](https://gwynbleidd0014.github.io/type-master-pre-lunch-page/)
+- Live Site URL: [Click to view live website](https://gwynbleidd0014.github.io/faq-accordion-card/)
 
 ### Built with
 
